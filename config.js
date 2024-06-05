@@ -60,7 +60,7 @@ global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg'
 
 
 global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.rwait = '🌐'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
